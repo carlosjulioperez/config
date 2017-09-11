@@ -1,0 +1,8 @@
+/home/knoppix/Desktop/KNOPPIX/local/Alkitab-2_9_1/platform=1338978574000
+/home/knoppix/Desktop/KNOPPIX/local/Alkitab-2_9_1/bin/../alkitab=1338978572000
+/home/knoppix/Desktop/KNOPPIX/local/Alkitab-2_9_1/bin/../extra=1338978572000
+/home/knoppix/Desktop/KNOPPIX/local/Alkitab-2_9_1/bin/../ide=1338978574000
+/home/knoppix/.alkitab/2.9.1=1338978574000
+crc=7
+locale=es_ES
+branding=alkitab
