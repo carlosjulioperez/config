@@ -40,6 +40,7 @@ sudo ln -s $LOCAL/fe /usr/local
 #Carpetas de desarrollo
 mkdir -p $PROY
 
+ln -s $PROJECTS/changelogs $PROY
 ln -s $PROJECTS/gows $PROY
 ln -s $PROJECTS/Webapp $PROY
 ln -s $PROJECTS/cjerp $PROY
