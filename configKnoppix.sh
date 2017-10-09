@@ -46,6 +46,7 @@ ln -s $PROJECTS/gows $PROY
 ln -s $PROJECTS/Webapp $PROY
 ln -s $PROJECTS/cjerp $PROY
 ln -s $PROJECTS/nubesoft $PROY
+ln -s $PROJECTS/sgs $PROY
 ln -s $PROJECTS/prototipos $PROY
 ln -s $OX_HOME/workspace/OpenXava $PROY
 ln -s $OX_HOME/workspace/Addons $PROY

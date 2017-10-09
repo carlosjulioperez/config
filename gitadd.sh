@@ -1,3 +1,6 @@
-git add bin/gopath.sh
+git add .gitignore
+git add configDebs.sh
+git add configKnoppix.sh
+git add gitadd.sh
 
-git commit -m "Configuración para Knoppix 7.7.1"
+git commit -m "Ajustes"
