@@ -36937,8 +36937,8 @@ WINE REGISTRY Version 2
 "CommonPictures"=str(2):"%ALLUSERSPROFILE%\\Pictures"
 "CommonVideo"=str(2):"%ALLUSERSPROFILE%\\Videos"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1504261261
-#time=1d3230c02f194a0
+[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1510399505
+#time=1d35adfb915ce26
 "10.15 Saturday Night BRK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\aenigma\\1015sn.ttf"
 "10.15 Saturday Night R BRK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\aenigma\\1015snr.ttf"
 "18 Holes BRK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\aenigma\\18holes.ttf"
@@ -40611,8 +40611,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\FontMapper] 1500719134
 #time=1d302d4da97ebd2
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1504261261
-#time=1d3230c02f19310
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1510399505
+#time=1d35adfb915cc00
 "10.15 Saturday Night BRK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\aenigma\\1015sn.ttf"
 "10.15 Saturday Night R BRK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\aenigma\\1015snr.ttf"
 "18 Holes BRK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\aenigma\\18holes.ttf"
@@ -42764,9 +42764,9 @@ WINE REGISTRY Version 2
 [Software\\Registered Applications] 1500719134
 #time=1d302d4da9b7ed2
 
-[Software\\Wine\\Drives] 1504261263
-#time=1d3230c03bf5d68
-"d:"="cdrom"
+[Software\\Wine\\Drives] 1510399505
+#time=1d35adfb97782f6
+"e:"="cdrom"
 
 [Software\\Wine\\LicenseInformation] 1500719135
 #time=1d302d4dacd3c4c

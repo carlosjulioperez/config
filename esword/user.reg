@@ -466,8 +466,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1500719134
 #time=1d302d4da96e6ec
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-1] 1500719473
-#time=1d302d5a4a0ed8e
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-1] 1510400641
+#time=1d35ae25e223204
 "DockingCX"=dword:000000bd
 "DockingCY"=dword:00000258
 "DockingHolder"=dword:00000007
@@ -480,15 +480,15 @@ WINE REGISTRY Version 2
 "Title"="Bible Books\n\n"
 "Type"=dword:00000000
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-10] 1500719473
-#time=1d302d5a4a16e3a
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-10] 1510400641
+#time=1d35ae25e229e7e
 "DockingCX"=dword:0000026d
 "DockingCY"=dword:0000012c
 "Panes"=dword:00000000
 "Type"=dword:00000001
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-11] 1500719473
-#time=1d302d5a4a17984
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-11] 1510400641
+#time=1d35ae25e22a87e
 "DockingCX"=dword:000001b0
 "DockingCY"=dword:0000012c
 "Pane-1"=dword:0000000c
@@ -496,8 +496,8 @@ WINE REGISTRY Version 2
 "Panes"=dword:00000002
 "Type"=dword:00000002
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-12] 1500719473
-#time=1d302d5a4a18780
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-12] 1510400641
+#time=1d35ae25e22b288
 "DockingCX"=dword:0000012c
 "DockingCY"=dword:0000012c
 "Pane-1"=dword:00000003
@@ -505,28 +505,27 @@ WINE REGISTRY Version 2
 "Selected"=dword:00000003
 "Type"=dword:00000001
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-13] 1500719473
-#time=1d302d5a4a18ff0
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-13] 1510400641
+#time=1d35ae25e22bb2a
 "DockingCX"=dword:00000262
 "DockingCY"=dword:0000012c
 "Panes"=dword:00000000
 "Type"=dword:00000001
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-14] 1500719473
-#time=1d302d5a4a194fa
-"DockingCX"=dword:00000277
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-14] 1510400641
+#time=1d35ae25e2219fe
 "Type"=dword:00000004
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-15] 1500719473
-#time=1d302d5a4a19eaa
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-15] 1510400641
+#time=1d35ae25e22c78c
 "Direction"=dword:00000000
 "Pane-1"=dword:00000010
 "Pane-2"=dword:00000011
 "Panes"=dword:00000002
 "Type"=dword:00000005
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-16] 1500719473
-#time=1d302d5a4a1a9f4
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-16] 1510400641
+#time=1d35ae25e22d20e
 "DockingCX"=dword:0000026d
 "DockingCY"=dword:0000012c
 "Pane-1"=dword:00000004
@@ -534,8 +533,8 @@ WINE REGISTRY Version 2
 "Selected"=dword:00000004
 "Type"=dword:00000001
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-17] 1500719473
-#time=1d302d5a4a1b520
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-17] 1510400641
+#time=1d35ae25e22dc22
 "DockingCX"=dword:00000262
 "DockingCY"=dword:0000012c
 "Pane-1"=dword:00000005
@@ -543,8 +542,8 @@ WINE REGISTRY Version 2
 "Selected"=dword:00000005
 "Type"=dword:00000001
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-2] 1500719473
-#time=1d302d5a4a1001c
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-2] 1510400641
+#time=1d35ae25e223f38
 "DockingCX"=dword:0000012c
 "DockingCY"=dword:0000012c
 "DockingHolder"=dword:00000009
@@ -556,8 +555,8 @@ WINE REGISTRY Version 2
 "Title"="Biblias\n\n"
 "Type"=dword:00000000
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-3] 1500719473
-#time=1d302d5a4a11156
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-3] 1510400641
+#time=1d35ae25e224bae
 "DockingCX"=dword:0000012c
 "DockingCY"=dword:0000012c
 "DockingHolder"=dword:0000000c
@@ -569,8 +568,8 @@ WINE REGISTRY Version 2
 "Title"="Comentarios\n\n"
 "Type"=dword:00000000
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-4] 1500719473
-#time=1d302d5a4a1227c
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-4] 1510400641
+#time=1d35ae25e22582e
 "DockingCX"=dword:0000026d
 "DockingCY"=dword:0000012c
 "DockingHolder"=dword:0000000a
@@ -582,8 +581,8 @@ WINE REGISTRY Version 2
 "Title"="Diccionarios\n\n"
 "Type"=dword:00000000
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-5] 1500719473
-#time=1d302d5a4a133ca
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-5] 1510400641
+#time=1d35ae25e2266ac
 "DockingCX"=dword:00000262
 "DockingCY"=dword:0000012c
 "DockingHolder"=dword:0000000d
@@ -595,8 +594,8 @@ WINE REGISTRY Version 2
 "Title"="Editores\n\n"
 "Type"=dword:00000000
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-6] 1500719473
-#time=1d302d5a4a141c6
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-6] 1510400641
+#time=1d35ae25e22780e
 "DockingCX"=dword:00000589
 "Horiz"=dword:00000001
 "Pane-1"=dword:00000007
@@ -606,8 +605,8 @@ WINE REGISTRY Version 2
 "Panes"=dword:00000004
 "Type"=dword:00000002
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-7] 1500719473
-#time=1d302d5a4a14e5a
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-7] 1510400641
+#time=1d35ae25e22827c
 "DockingCX"=dword:000000bd
 "DockingCY"=dword:00000258
 "Pane-1"=dword:00000001
@@ -615,8 +614,8 @@ WINE REGISTRY Version 2
 "Selected"=dword:00000001
 "Type"=dword:00000001
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-8] 1500719473
-#time=1d302d5a4a159ae
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-8] 1510400641
+#time=1d35ae25e228cb8
 "DockingCX"=dword:00000314
 "DockingCY"=dword:0000012c
 "Pane-1"=dword:00000009
@@ -624,8 +623,8 @@ WINE REGISTRY Version 2
 "Panes"=dword:00000002
 "Type"=dword:00000002
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-9] 1500719473
-#time=1d302d5a4a165f2
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Pane-9] 1510400641
+#time=1d35ae25e229712
 "DockingCX"=dword:0000012c
 "DockingCY"=dword:0000012c
 "Pane-1"=dword:00000002
@@ -633,8 +632,8 @@ WINE REGISTRY Version 2
 "Selected"=dword:00000002
 "Type"=dword:00000001
 
-[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Summary] 1500719473
-#time=1d302d5a4a1b9e4
+[Software\\VB and VBA Program Settings\\e-Sword\\DockingPaneLayouts\\Layout\\Summary] 1510400641
+#time=1d35ae25e22e05a
 "Client"=dword:0000000e
 "Panes"=dword:00000011
 "TopContainer"=dword:00000006
@@ -808,9 +807,10 @@ WINE REGISTRY Version 2
 "TLA-D"="True"
 "Usos y costumbres de las tierras b\x00edblicas"="True"
 
-[Software\\VB and VBA Program Settings\\e-Sword\\Settings] 1500719473
-#time=1d302d5a4a59ffa
+[Software\\VB and VBA Program Settings\\e-Sword\\Settings] 1510400641
+#time=1d35ae25e24886a
 @=""
+"Arabic Font"="TITUS Cyberbit Basic"
 "Bible"="KJV"
 "Bible Highlight Name"="yellow+"
 "Bible Highlight Value"="8454143"
@@ -832,6 +832,9 @@ WINE REGISTRY Version 2
 "Commentary Mark Style"="single"
 "Commentary Mark Value"="1"
 "Convert User Files"="True"
+"Cyrillic Font"="Georgia"
+"Default Font Name"="Georgia"
+"Default Font Size"="12"
 "Dictionary"="Strong"
 "Dictionary Highlight Name"="yellow+"
 "Dictionary Highlight Value"="8454143"
@@ -839,21 +842,29 @@ WINE REGISTRY Version 2
 "Dictionary Mark Value"="1"
 "Display Bookmarks"="True"
 "Editor"="Study"
+"Editor Font Name"="Georgia"
+"Editor Font Size"="11"
+"European Font"="Georgia"
+"Greek Font"="Galatia SIL"
+"Hebrew Font"="Ezra SIL"
 "Highlight Search Results"="True"
+"Japanese Font"=""
+"Korean Font"=""
 "Language"="Spanish"
-"Last Reference"="Jua 3:16"
+"Last Reference"="Esd 7:6"
+"Latin Font"="Doulos SIL"
 "Main Height"="13035"
 "Main Left"="0"
 "Main Top"="90"
 "Main Width"="21600"
 "Markup File"="C:\\modulos\\markup.ovlx"
 "Maximized"="True"
-"Parallel 1"="KJV"
-"Parallel 2"="(ninguno)"
-"Parallel 3"="(ninguno)"
-"Parallel 4"="(ninguno)"
-"Parallel 5"="(ninguno)"
-"Parallel 6"="(ninguno)"
+"Parallel 1"="BTX3"
+"Parallel 2"="NT Peshitta-ES"
+"Parallel 3"="DHH-D"
+"Parallel 4"="NBJ"
+"Parallel 5"="DA"
+"Parallel 6"="NTV"
 "Parallel 7"="(ninguno)"
 "Parallel 8"="(ninguno)"
 "Path"="C:\\Program Files\\e-Sword\\"
@@ -868,11 +879,17 @@ WINE REGISTRY Version 2
 "Resources Path"="C:\\modulos\\"
 "Scripture ToolTips"="True"
 "Show Tips"="1"
+"Simplfied Font"=""
 "Strong's # ToolTips"="True"
 "Tab Style"="0"
+"Thai Font"=""
+"ToolTip Font Size"="8"
+"Traditional Font"=""
+"Turkish Font"="Georgia"
 "User Files Path"="C:\\modulos\\"
 "VerseList File"="C:\\modulos\\Bookmarks.lstx"
 "Version"="10.4"
+"Vietnamese Font"=""
 "View Mode"="All"
 "View Topics"="True"
 
@@ -1024,13 +1041,13 @@ WINE REGISTRY Version 2
 "OpenWithIcon"="AFFF_iexplore.0"
 "ProgID"="xslfile"
 
-[Software\\Wine\\Fonts] 1504261261
-#time=1d3230c02d15f14
+[Software\\Wine\\Fonts] 1510399505
+#time=1d35adfb8f53c88
 "Codepages"="1252,850"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1504261261
-#time=1d3230c02f1961c
+[Software\\Wine\\Fonts\\External Fonts] 1510399505
+#time=1d35adfb915d04c
 "10.15 Saturday Night BRK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\aenigma\\1015sn.ttf"
 "10.15 Saturday Night R BRK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\aenigma\\1015snr.ttf"
 "18 Holes BRK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\aenigma\\18holes.ttf"
@@ -1979,7 +1996,7 @@ WINE REGISTRY Version 2
 "\xc6 Systematic TT BRK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\aenigma\\aesymatt.ttf"
 "\xc6nigma Scrawl 4 BRK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\aenigma\\aescrawl.ttf"
 
-[Software\\Wine\\MenuFiles] 1500719194
-#time=1d302d4fe4ae660
+[Software\\Wine\\MenuFiles] 1510399449
+#time=1d35adf979ade58
 "/home/knoppix/.config/menus/applications-merged/wine-Programs-e-Sword-e-Sword.menu"="/home/knoppix/.wine/dosdevices/c:/users/knoppix/Start Menu/Programs/e-Sword/e-Sword.lnk"
 "/home/knoppix/.local/share/applications/wine/Programs/e-Sword/e-Sword.desktop"="/home/knoppix/.wine/dosdevices/c:/users/knoppix/Start Menu/Programs/e-Sword/e-Sword.lnk"

@@ -1,1 +1,1 @@
-/mnt-system/local/squirrel-sql-3.7.1/squirrel-sql.sh &
+/mnt-system/local/squirrel-sql-3.8.0/squirrel-sql.sh &

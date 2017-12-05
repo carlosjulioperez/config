@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=SquirrelSQL
+Comment=3.8.0
+Exec=/mnt-system/local/squirrel-sql-3.8.0/squirrel-sql.sh
+Icon=/mnt-system/local/squirrel-sql-3.8.0/icons/acorn.png
+Terminal=false

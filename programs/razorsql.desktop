@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=RazorSQL
+Comment=7.3.15
+Exec=/mnt-system/local/razorsql/razorsql.sh
+Icon=/mnt-system/local/razorsql/icons/razorsql48.png
+Terminal=false
